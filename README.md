@@ -1,2 +1,2 @@
 #Organograma de Hogwarts
-organiza os bruxos de hogwarts entre suas casa
+organiza os alunos de hogwarts entre suas casa
