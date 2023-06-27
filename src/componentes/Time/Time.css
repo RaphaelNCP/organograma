@@ -1,12 +1,18 @@
 .Time {
     text-align: center;
     padding: 32px;
-    background-color: #7f0909;
 }
 
 .Time h3 {
     font-size: 32px;
-    border-bottom: 4px solid #ffc500;
+    border-bottom: 4px solid;
     display: inline-block;
     padding-bottom: 8px;
+}
+
+.Time .colaboradores {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+    flex-wrap: wrap;
 }
