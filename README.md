@@ -19,5 +19,3 @@ Projeto realizado para dar os passo iniciais no React, aprendendo componentes, c
 ## Detalhes do projeto
 
 Organograma dos alunos de Hogwarts utilizando de react. O projeto oroginal proposto pelo curso de React da Alura era um organograma deles mesmos, ao realiza-lo, pude modifica-lo para se encaixar em Harry Potter, serie de livros que amo e assim dar um toque mais pessoal.
-
-a
